@@ -3,7 +3,7 @@
 
 # Dataset
 <h1 align="center">
-![image](https://user-images.githubusercontent.com/95513386/146653351-a4be3334-4b56-4b1b-b76d-bdf26f6d49d0.png)
+<img src=![image](https://user-images.githubusercontent.com/95513386/146653351-a4be3334-4b56-4b1b-b76d-bdf26f6d49d0.png)/>
 </h1>
 
 We crawled articles in different areas of Wikipedia. The topics of these articles form a hierarchy (given by Wikipedia), as shown
