@@ -18,6 +18,22 @@ such as “a”, “the”, “me”, and digits (for purpose of controlling the
 vocabulary size (number of unique word types) in the dataset is 9,729 after pre-processing.
 
 # Visualization and Accuracy
-![image](https://user-images.githubusercontent.com/95513386/146653759-92262568-7d7e-4785-981e-802f13def00a.png)
+## Hierarchical Clustering
+NMI: 0.608, Purity: 0.500
+![image](https://user-images.githubusercontent.com/95513386/146653792-f55af265-f9af-4d23-9859-1e61ad694c28.png)
+
+![image](https://user-images.githubusercontent.com/95513386/146653979-34b1a3d9-ff9f-41cb-bdec-06fcb2f74cee.png)
+
+## K-means Cluster
+NMI: 0.514, Purity: 0.425
+![image](https://user-images.githubusercontent.com/95513386/146653996-2358262e-e104-4616-8fb3-9cc0e3fb382c.png)
+
+## Spectral Cluster
+NMI: 0.689, Purity: 0.581
+![image](https://user-images.githubusercontent.com/95513386/146654016-8efdd568-047d-4db5-a800-de2a7af098a8.png)
+
+
+
+
 
   
