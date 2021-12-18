@@ -1,9 +1,9 @@
 # Clustering-Method
-
+Clustering methods are used to identify groups of similar objects in a multivariate data sets collected from fields. In this project, k-means cluster, hierarchical cluster, and spectral cluster are provided in the sample code.
 
 # Dataset
 
-<img src="![image](https://user-images.githubusercontent.com/95513386/146653351-a4be3334-4b56-4b1b-b76d-bdf26f6d49d0.png)"/>
+![image](https://user-images.githubusercontent.com/95513386/146653351-a4be3334-4b56-4b1b-b76d-bdf26f6d49d0.png)
 
 
 We crawled articles in different areas of Wikipedia. The topics of these articles form a hierarchy (given by Wikipedia), as shown
