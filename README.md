@@ -16,4 +16,8 @@ Each document has undergone the following pre-proessing steps:
 such as “a”, “the”, “me”, and digits (for purpose of controlling the vocabulary size).
 3. Stemming, where the affixes of each word are removed and only the remaining stem is retained. The
 vocabulary size (number of unique word types) in the dataset is 9,729 after pre-processing.
+
+# Visualization and Accuracy
+![image](https://user-images.githubusercontent.com/95513386/146653759-92262568-7d7e-4785-981e-802f13def00a.png)
+
   
