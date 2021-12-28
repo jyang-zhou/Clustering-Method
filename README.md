@@ -1,6 +1,23 @@
 # Clustering-Method
 Clustering methods are used to identify groups of similar objects in a multivariate data sets collected from fields. In this project, k-means cluster, hierarchical cluster, and spectral cluster are provided in the sample code.
 
+
+## Formulation for k-mean:
+
+![image](https://user-images.githubusercontent.com/95513386/147612622-c6f40199-2ba1-40ad-ae83-6487d6d7f994.png)
+
+
+
+## Formulation for hierarchical cluster
+
+![image](https://user-images.githubusercontent.com/95513386/147612643-7e307fe1-0ecf-41a6-bc94-92ed61bab729.png)
+
+
+## Formulation for Spectral cluster
+
+![image](https://user-images.githubusercontent.com/95513386/147612674-a2e79b50-bcc0-4b95-8832-ea10464b1ce5.png)
+
+
 # Dataset
 
 ![image](https://user-images.githubusercontent.com/95513386/146653351-a4be3334-4b56-4b1b-b76d-bdf26f6d49d0.png)
